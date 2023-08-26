@@ -1,11 +1,8 @@
-
-
-```markdown
-# Weather App (Python)
+Weather App (Python)
 
 This is a simple Python Weather App that fetches and displays the current weather information for a given city using the WeatherAPI. The app also has a text-to-speech functionality to announce the weather details.
 
-## Installation
+Installation
 
 1. Clone the repository to your local machine:
 
